@@ -1,0 +1,11 @@
+{
+  "name": "@psychomantis/capitalizer",
+  "version": "1.0.0",
+  "description": "Capitalizing text",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Psychomantis",
+  "license": "ISC"
+}
